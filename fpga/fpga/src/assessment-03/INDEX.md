@@ -1,0 +1,40 @@
+# Assessment 03 source code
+
+The following source files were transcribed from the code displayed in the assessment PDF. They are kept as separate files so a beginner can study one module at a time.
+
+- [`module_srff.v`](module_srff.v) - module: `srff`
+- [`testbench_srff_tb.v`](testbench_srff_tb.v) - testbench: `srff_tb`
+- [`module_jkff.v`](module_jkff.v) - module: `jkff`
+- [`testbench_jkff_tb.v`](testbench_jkff_tb.v) - testbench: `jkff_tb`
+- [`module_tff.v`](module_tff.v) - module: `tff`
+- [`testbench_tff_tb.v`](testbench_tff_tb.v) - testbench: `tff_tb`
+- [`module_dff.v`](module_dff.v) - module: `dff`
+- [`testbench_dff_tb.v`](testbench_dff_tb.v) - testbench: `dff_tb`
+- [`module_siso.v`](module_siso.v) - module: `siso`
+- [`testbench_siso_tb.v`](testbench_siso_tb.v) - testbench: `siso_tb`
+- [`module_sipo.v`](module_sipo.v) - module: `sipo`
+- [`testbench_sipo_tb.v`](testbench_sipo_tb.v) - testbench: `sipo_tb`
+- [`module_piso.v`](module_piso.v) - module: `piso`
+- [`testbench_piso_tb.v`](testbench_piso_tb.v) - testbench: `piso_tb`
+- [`module_pipo.v`](module_pipo.v) - module: `pipo`
+- [`testbench_pipo_tb.v`](testbench_pipo_tb.v) - testbench: `pipo_tb`
+- [`module_BidirSreg.v`](module_BidirSreg.v) - module: `BidirSreg`
+- [`testbench_BidirSreg_tb.v`](testbench_BidirSreg_tb.v) - testbench: `BidirSreg_tb`
+- [`module_unvSreg.v`](module_unvSreg.v) - module: `unvSreg`
+- [`testbench_unvSreg_tb.v`](testbench_unvSreg_tb.v) - testbench: `unvSreg_tb`
+- [`module_upcounter.v`](module_upcounter.v) - module: `upcounter`
+- [`testbench_upcounter_tb.v`](testbench_upcounter_tb.v) - testbench: `upcounter_tb`
+- [`module_downcounter.v`](module_downcounter.v) - module: `downcounter`
+- [`testbench_downcounter_tb.v`](testbench_downcounter_tb.v) - testbench: `downcounter_tb`
+- [`module_updown.v`](module_updown.v) - module: `updown`
+- [`testbench_updown_tb.v`](testbench_updown_tb.v) - testbench: `updown_tb`
+- [`module_mod10count.v`](module_mod10count.v) - module: `mod10count`
+- [`testbench_mod10count_tb.v`](testbench_mod10count_tb.v) - testbench: `mod10count_tb`
+- [`module_ringcount.v`](module_ringcount.v) - module: `ringcount`
+- [`testbench_ringcount_tb.v`](testbench_ringcount_tb.v) - testbench: `ringcount_tb`
+- [`module_johnsoncount.v`](module_johnsoncount.v) - module: `johnsoncount`
+- [`testbench_johnsoncount_tb.v`](testbench_johnsoncount_tb.v) - testbench: `johnsoncount_tb`
+- [`module_Assesment.v`](module_Assesment.v) - module: `Assesment`
+- [`testbench_Assesment_tb.v`](testbench_Assesment_tb.v) - testbench: `Assesment_tb`
+- [`module_ButtonPulse.v`](module_ButtonPulse.v) - module: `ButtonPulse`
+- [`module_Se.v`](module_Se.v) - module: `Se`
