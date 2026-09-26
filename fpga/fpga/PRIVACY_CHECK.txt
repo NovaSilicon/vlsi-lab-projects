@@ -1,1 +1,3 @@
-No listed identity/institution strings were found in repository text after sanitization.
+Privacy audit performed on repository text/PDF extraction.
+No known personal/institutional identifiers found in text-readable files.
+Screenshots are separately cropped to reduce exposure of application chrome/account/library identifiers.

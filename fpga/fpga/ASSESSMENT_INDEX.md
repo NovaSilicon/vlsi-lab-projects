@@ -7,3 +7,6 @@ Open the PDF for the full worked report.
 - [Assessment 04](reports/assessment-04.pdf) - FPGA assessment 4
 - [Assessment 05](reports/assessment-05.pdf) - FPGA assessment 5
 - [Assessment 06](reports/assessment-06.pdf) - FPGA assessment 6
+
+## Images
+Each assessment has a matching image folder under `images/assessment-XX/`.

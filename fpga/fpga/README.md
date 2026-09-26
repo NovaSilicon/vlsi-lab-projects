@@ -4,6 +4,8 @@ A beginner-friendly archive of FPGA digital design assessments, with cleaned rep
 
 ## What is here
 
+- `images/` contains the assessment screenshots/figures. The image sets are numbered to match each report.
+
 - `reports/` contains the cleaned PDF for each assessment.
 - `README.md` and the assessment index are written for beginners.
 - The PDFs were prepared as public copies with personal and institutional identifiers removed.
@@ -26,10 +28,13 @@ A beginner-friendly archive of FPGA digital design assessments, with cleaned rep
 ### 1. Start with the PDF
 Open the assessment PDF first. It contains the problem statement, implementation details, screenshots, results, and conclusion where available.
 
-### 2. Find the source code
+### 2. Look at the screenshots
+Open `images/assessment-XX/` to see the figures/screenshots used in that assessment.
+
+### 3. Find the source code
 Open `src/assessment-XX/INDEX.md` and choose the module or testbench you want to study.
 
-### 3. Simulate simple Verilog
+### 4. Simulate simple Verilog
 For plain Verilog files, Icarus Verilog can be used from a terminal. Example:
 ```bash
 iverilog -o sim.out src/assessment-02/module_ha.v src/assessment-02/testbench_t_ha.v
@@ -37,7 +42,7 @@ vvp sim.out
 ```
 The exact file names differ by assessment. Check the assessment index before running a command.
 
-### 4. Use Quartus for FPGA-specific work
+### 5. Use Quartus for FPGA-specific work
 Board pin assignments, Quartus IP, and vendor-specific modules require the appropriate Quartus Prime project/toolchain. Those files are kept separate from the basic Verilog examples.
 
 ## Privacy note
